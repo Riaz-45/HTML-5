@@ -2,3 +2,11 @@ form .basic_info label{
     display: block;
     margin: 10px;
 }
+.basic_info{
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+}
+fieldset{
+    background-color:burlywood;
+}
