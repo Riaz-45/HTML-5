@@ -12,3 +12,14 @@
     width: 80px;
     text-align: center;
 }
+
+.containerrr{
+    background-color: blanchedalmond;
+}
+
+.contentt{
+    background-color: aquamarine;
+    font-size: 2em;
+    max-width: 1000px;
+    margin: 0 auto;
+}
